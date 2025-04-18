@@ -9,7 +9,6 @@
 #include <time.h>
 #include <unistd.h>
 
-
 #define CACHE_SIZE 5
 #define READ 10 // отвечает за чтение ячейки памяти из in-out
 #define WRITE 11 // отвечает за вывод ячейки памяти в in_out
